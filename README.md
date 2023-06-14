@@ -1,1 +1,1 @@
-# View my CV here [here](./main.pdf)
+# View my CV [here](./main.pdf)
